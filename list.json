@@ -1,0 +1,47 @@
+[
+  {
+    "title": "appletv",
+    "videoURL": "https://github.com/eriparker/heros/raw/refs/heads/main/appletv.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/heros/refs/heads/main/apple.png"
+  },
+  {
+    "title": "netflix",
+    "videoURL": "https://github.com/eriparker/heros/raw/refs/heads/main/netflix.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/heros/refs/heads/main/netflix.png"
+  },
+  {
+    "title": "primevideo",
+    "videoURL": "https://github.com/eriparker/heros/raw/refs/heads/main/amazonprime.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/heros/refs/heads/main/prime.png"
+  },
+  {
+    "title": "disney",
+    "videoURL": "https://github.com/eriparker/heros/raw/refs/heads/main/disneyplus.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/heros/refs/heads/main/disney.png"
+  },
+  {
+    "title": "hbo",
+    "videoURL": "https://github.com/eriparker/heros/raw/refs/heads/main/hbomax.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/heros/refs/heads/main/hbo.png"
+  },
+  {
+    "title": "hulu",
+    "videoURL": "https://github.com/eriparker/heros/raw/refs/heads/main/hulu.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/heros/refs/heads/main/hulu.png"
+  },
+  {
+    "title": "paramount",
+    "videoURL": "https://github.com/eriparker/heros/raw/refs/heads/main/paramount.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/heros/refs/heads/main/paramount.png"
+  },
+  {
+    "title": "peacock",
+    "videoURL": "https://github.com/eriparker/heros/raw/refs/heads/main/peacock.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/heros/refs/heads/main/peacock.png"
+  },
+{
+    "title": "showtime",
+    "videoURL": "https://github.com/eriparker/heros/raw/refs/heads/main/showtime.mp4",
+    "logoURL": "https://raw.githubusercontent.com/eriparker/heros/refs/heads/main/showtime.png"
+  }
+]
